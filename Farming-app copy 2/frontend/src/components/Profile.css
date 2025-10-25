@@ -1,0 +1,29 @@
+.profile-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .profile-title {
+    text-align: center;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .profile-card, .equipment-card {
+    border: 1px solid #ddd;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .equipment-card {
+    background-color: #f9f9f9;
+  }
+  
+  .card-title {
+    color: #007bff;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  

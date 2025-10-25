@@ -1,0 +1,16 @@
+.booking-details {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .booking-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .booking-details p {
+    margin: 5px 0;
+  }
+  
